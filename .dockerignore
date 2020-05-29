@@ -1,0 +1,5 @@
+testimages/
+.gitignore
+build-and-run-docker.sh
+buildspec.yml
+Dockerfile
